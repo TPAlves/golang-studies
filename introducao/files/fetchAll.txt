@@ -1,0 +1,14 @@
+0.42s   61860 https://go.dev/
+1.07s   20570 http://google.com
+0.51s   61860 https://go.dev/
+0.89s   20551 http://google.com
+0.38s   61860 https://go.dev/
+0.47s   20674 http://google.com
+Get "www.google.com": unsupported protocol scheme ""
+Get "http://localhost/": dial tcp 127.0.0.1:80: connect: connection refused
+0.24s   29734 https://zetcode.com/
+0.27s  175824 https://stackoverflow.com/
+0.28s  497047 https://www.youtube.com/
+0.48s   61860 https://go.dev/
+0.61s    6779 https://alexa.com/
+1.41s   20256 http://google.com
