@@ -31,7 +31,7 @@ func comma(s string) string {
 }
 
 func main() {
-	number := comma("4000.21")
+	number := comma("15203.40")
 	fmt.Println(number)
 
 }
